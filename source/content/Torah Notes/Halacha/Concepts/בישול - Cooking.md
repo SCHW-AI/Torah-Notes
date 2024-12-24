@@ -5,7 +5,6 @@ aliases:
 ---
  Cooking (בישול) is used as both a general term to refer to food preparation and as a specific term to refer to preparing food in heated water (or other fluids, see below). ^8df37a
  
-
 ## מראת עין
 Whether cooking (a mixture that is intrinsically permitted to be cooked but not eaten, in an instance where an observer seeing this might be misled that eating such a mixture or a similar mixture that is likewise prohibited) can be prohibited because of מראת עין is debated by the ט"ז and ש"ך (יו"ד פז:ד).
 The ט"ז (שם ס"ק ה) holds it can, but the ש"ך (שם ס"ק ז) that it cannot because any observer can assume that he's cooking the (seemingly) forbidden mixture for medicinal or other non-eating purposes. [^1] ^abd781
