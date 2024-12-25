@@ -53,8 +53,7 @@
               "title": "תערובות"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "83942abb7319b3d6",
@@ -214,12 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7850d447fe8ac69f",
+  "active": "bb99964b85eaf20a",
   "lastOpenFiles": [
+    "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/יורה דעה/תערובות.md",
-    "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/Concepts/יד סולדת.md",
     "Halacha/Halacha.md",
     "Halacha/Concepts/מראת עין.md",
