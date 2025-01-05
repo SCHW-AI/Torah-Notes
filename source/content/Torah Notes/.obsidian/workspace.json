@@ -20,8 +20,7 @@
               },
               "icon": "lucide-file",
               "title": "בשר בחלב"
-            },
-            "group": "8020b935c2c0578c"
+            }
           },
           {
             "id": "7850d447fe8ac69f",
@@ -52,25 +51,6 @@
               "icon": "lucide-file",
               "title": "תערובות"
             }
-          }
-        ]
-      },
-      {
-        "id": "83942abb7319b3d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "045719daa6dbc893",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Halacha/יורה דעה/בשר בחלב.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of בשר בחלב"
-            },
-            "group": "8020b935c2c0578c"
           }
         ]
       }
@@ -144,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "יורה דעה/בשר בחלב.md",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "יורה דעה/בשר בחלב.md",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,18 +170,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "יורה דעה/בשר בחלב.md"
+                "file": "Halacha/יורה דעה/בשר בחלב.md"
               },
               "icon": "lucide-list",
               "title": "Outline of בשר בחלב"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +197,9 @@
   "lastOpenFiles": [
     "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/Concepts/מראת עין.md",
-    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/יד סולדת.md",
     "Halacha/Halacha.md",
     "Halacha/Concepts/תתאה גבר.md",
