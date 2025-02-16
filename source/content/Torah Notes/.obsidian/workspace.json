@@ -8,18 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb99964b85eaf20a",
+            "id": "fd030fe0633643fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Halacha/יורה דעה/בשר בחלב.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "בשר בחלב"
+            }
+          },
+          {
+            "id": "bb99964b85eaf20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halacha/יורה דעה/תערובות.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "תערובות"
+            }
+          },
+          {
+            "id": "f79709e09f6b264a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halacha/Concepts/Measurements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Measurements"
             }
           },
           {
@@ -36,23 +66,9 @@
               "icon": "lucide-file",
               "title": "תיקון כלים"
             }
-          },
-          {
-            "id": "fd030fe0633643fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Halacha/יורה דעה/תערובות.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "תערובות"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/בשר בחלב.md",
+                "file": "Halacha/יורה דעה/תערובות.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of בשר בחלב"
+              "title": "Outline of תערובות"
             }
           }
         ],
@@ -199,8 +215,10 @@
   },
   "active": "bb99964b85eaf20a",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "History/Eras of Torah.md",
+    "Halacha/Concepts/Measurements.md",
     "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/Halacha.md",
@@ -209,7 +227,6 @@
     "Halacha/Concepts/תתאה גבר.md",
     "Halacha/יורה דעה/תערובות",
     "Untitled.canvas",
-    "History/Eras of Torah.md",
     "History",
     "Halacha/יורה דעה/יורה דעה.md",
     "Halacha",
