@@ -60,15 +60,15 @@
               "state": {
                 "file": "Halacha/יורה דעה/תיקון כלים.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "תיקון כלים"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/תערובות.md",
+                "file": "Halacha/יורה דעה/תיקון כלים.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of תערובות"
+              "title": "Outline of תיקון כלים"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb99964b85eaf20a",
+  "active": "7850d447fe8ac69f",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/תערובות.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
     "History/Eras of Torah.md",
     "Halacha/Concepts/Measurements.md",
     "Halacha/יורה דעה/תיקון כלים.md",
