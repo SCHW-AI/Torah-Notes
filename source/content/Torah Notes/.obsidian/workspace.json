@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Halacha/יורה דעה/בשר בחלב.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -67,8 +67,7 @@
               "title": "תיקון כלים"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/תיקון כלים.md",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of תיקון כלים"
+              "title": "Outline of בשר בחלב"
             }
           }
         ],
@@ -213,13 +212,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7850d447fe8ac69f",
+  "active": "fd030fe0633643fc",
   "lastOpenFiles": [
     "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/יורה דעה/תיקון כלים.md",
     "History/Eras of Torah.md",
     "Halacha/Concepts/Measurements.md",
-    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/Halacha.md",
     "Halacha/Concepts/מראת עין.md",
