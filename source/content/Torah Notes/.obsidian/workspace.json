@@ -174,7 +174,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -214,12 +216,12 @@
   },
   "active": "fd030fe0633643fc",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
-    "Halacha/יורה דעה/תיקון כלים.md",
-    "History/Eras of Torah.md",
+    "Halacha/יורה דעה/תערובות.md",
     "Halacha/Concepts/Measurements.md",
     "Halacha/Concepts/בישול - Cooking.md",
+    "Halacha/יורה דעה/תיקון כלים.md",
+    "History/Eras of Torah.md",
     "Halacha/Halacha.md",
     "Halacha/Concepts/מראת עין.md",
     "Halacha/Concepts/יד סולדת.md",

@@ -15,3 +15,12 @@ The ט"ז (שם ס"ק ה) holds it can, but the ש"ך (שם ס"ק ז) that it ca
 
 ## תתאה גבר:
 When something hot comes into contact with something cold, whether the hot item heats the cold item or the cold item cools the hot item, the consequence being whether the items cook together and thereby transfer flavors to each other, is debated in the Gemara (source). We Pasken that whichever item is lower (although according to many this is actually interpreted to mean the stationary item) extends its state to the upper (moving) item (תתאה גבר). ^ad0c62
+
+## Cooking After Removal From the Flame (כלי ראשון/שני/שלישי):
+### כלי ראשון:
+When a pot of food that has been heated to [[תערובות#יד סולדת|יד סולדת]] is removed from the flame, it retains its ability to cook additional food that is placed in it until it cools to below יד סולדת. This is called a כלי ראשון.
+### כלי שני:
+If the food in the pot is moved to different utensil, the food loses most of its ability to cook, *even though it's still יד סולדת*,  and, as far as שבת can only cook קלי הבישול, but as far as תערובות can still, according to some, cause בליעות to transfer.
+
+### כלי שלישי:
+If [[#כלי שני|כלי שני]] food is further moved to a third utensil, it has no ability to cook or transfer בליעות, again *even though it's still יד סולדת*.
