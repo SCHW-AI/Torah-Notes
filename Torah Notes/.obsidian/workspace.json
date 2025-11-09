@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "567ee449b507e3e9",
+    "id": "af6fdde3ebffc413",
     "type": "split",
     "children": [
       {
-        "id": "5c87b1ea8d3f5cd7",
+        "id": "f009ba0682248d60",
         "type": "tabs",
         "children": [
           {
-            "id": "4c380eb0a1e8de8c",
+            "id": "6e286cb57d51f527",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aff6974e8e9d6036",
+    "id": "aae797245ebb8393",
     "type": "split",
     "children": [
       {
-        "id": "4f6c2c8456cba7e6",
+        "id": "9f7bc2e56b1ea216",
         "type": "tabs",
         "children": [
           {
-            "id": "db9ad62c79686883",
+            "id": "d3f514ef6dcb2cf5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "6059ae4887980629",
+            "id": "89e5ae7702c1755a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "f0023792667b51f0",
+            "id": "8d5bc1e7d61eb146",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "ada9cbb2e9c41074",
+    "id": "097b43733fdf07e2",
     "type": "split",
     "children": [
       {
-        "id": "6746614bbf1537da",
+        "id": "fd5b443df851b1ae",
         "type": "tabs",
         "children": [
           {
-            "id": "23c99193489bc2c8",
+            "id": "36af97775f31a19b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Halacha/Concepts/Measurements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Measurements"
             }
           },
           {
-            "id": "1d6abede2cc7f6a1",
+            "id": "234a050d4f0d5899",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from בשר בחלב"
             }
           },
           {
-            "id": "0989d4241e15632c",
+            "id": "a7b2f96a60e084b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,25 +133,36 @@
             }
           },
           {
-            "id": "fb9a015bf4123b08",
+            "id": "61106f8317fa3b6a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Halacha/Concepts/Measurements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Measurements"
+            }
+          },
+          {
+            "id": "75932e4994d83869",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +172,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c380eb0a1e8de8c",
-  "lastOpenFiles": []
+  "active": "75932e4994d83869",
+  "lastOpenFiles": [
+    "hugo.toml",
+    "Torah Notes/hugo.toml",
+    "Torah Notes/History/Eras of Torah.md",
+    "Torah Notes/History",
+    "Torah Notes/Halacha/יורה דעה/בשר בחלב.md",
+    "Torah Notes/Halacha/יורה דעה/תיקון כלים.md",
+    "Torah Notes/Halacha/יורה דעה/תערובות.md",
+    "Torah Notes/Halacha/Concepts/Measurements.md",
+    "Torah Notes/Halacha/Concepts/בישול - Cooking.md",
+    "Torah Notes/Halacha/Concepts/מראת עין.md",
+    "Torah Notes/Halacha/Halacha.md",
+    "Torah Notes/Halacha/יורה דעה",
+    "Torah Notes/Halacha/Concepts",
+    "Torah Notes/Halacha",
+    "Torah Notes",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/images",
+    "themes/PaperMod/i18n/zh.yaml",
+    "themes/PaperMod/i18n/es.yaml",
+    "themes/PaperMod/i18n/zh-tw.yaml",
+    "themes/PaperMod/README.md",
+    "archetypes/default.md",
+    "Halacha/Concepts/Measurements.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/Concepts/בישול - Cooking.md",
+    "Untitled.canvas",
+    "Halacha/יורה דעה/תיקון כלים.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "Halacha/Halacha.md",
+    "Welcome.md",
+    "History/Eras of Torah.md",
+    "Halacha/Concepts/מראת עין.md"
+  ]
 }

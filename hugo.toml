@@ -1,0 +1,4 @@
+baseURL = 'https://your-site.workers.dev/'
+languageCode = 'en-us'
+title = 'My Obsidian Site'
+theme = 'PaperMod'
