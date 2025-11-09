@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "af6fdde3ebffc413",
+    "type": "split",
+    "children": [
+      {
+        "id": "f009ba0682248d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e286cb57d51f527",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aae797245ebb8393",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f7bc2e56b1ea216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f514ef6dcb2cf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89e5ae7702c1755a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8d5bc1e7d61eb146",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "097b43733fdf07e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5b443df851b1ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36af97775f31a19b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Halacha/Concepts/Measurements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Measurements"
+            }
+          },
+          {
+            "id": "234a050d4f0d5899",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from בשר בחלב"
+            }
+          },
+          {
+            "id": "a7b2f96a60e084b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61106f8317fa3b6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Halacha/Concepts/Measurements.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Measurements"
+            }
+          },
+          {
+            "id": "75932e4994d83869",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6e286cb57d51f527",
+  "lastOpenFiles": [
+    "Halacha/Concepts/Measurements.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/Concepts/בישול - Cooking.md",
+    "Untitled.canvas",
+    "Halacha/יורה דעה/תיקון כלים.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "Halacha/Halacha.md",
+    "Welcome.md",
+    "History/Eras of Torah.md",
+    "History",
+    "Halacha/יורה דעה",
+    "Halacha/Concepts/מראת עין.md",
+    "Halacha/Concepts",
+    "Halacha",
+    "desktop.ini"
+  ]
+}
