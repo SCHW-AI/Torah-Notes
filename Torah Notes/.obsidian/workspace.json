@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "תערובות"
             }
-          },
-          {
-            "id": "c8e8da49be215a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Halacha/יורה דעה/תערובות.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "תערובות"
-            }
           }
         ]
       }
@@ -108,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Halacha/Concepts/Measurements.md",
-                "collapseAll": false,
+                "file": "Halacha/יורה דעה/תערובות.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Measurements"
+              "title": "Backlinks for תערובות"
             }
           },
           {
@@ -188,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,12 +193,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6e286cb57d51f527",
+  "active": "75932e4994d83869",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/~$ר בחלב.md",
     "Halacha/יורה דעה/בשר בחלב.md",
-    "Halacha/Concepts/Measurements.md",
+    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/יורה דעה/תערובות.md",
+    "Halacha/Concepts/בישול - Cooking.md",
+    "Halacha/יורה דעה/~$ר בחלב.md",
+    "Halacha/Concepts/Measurements.md",
     "hugo.toml",
     "Torah Notes/hugo.toml",
     "Torah Notes/History/Eras of Torah.md",
@@ -235,9 +223,7 @@
     "themes/PaperMod/i18n/es.yaml",
     "themes/PaperMod/README.md",
     "archetypes/default.md",
-    "Halacha/Concepts/בישול - Cooking.md",
     "Untitled.canvas",
-    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Halacha.md",
     "Welcome.md",
     "History/Eras of Torah.md",
