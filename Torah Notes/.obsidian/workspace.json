@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "תערובות"
             }
-          },
-          {
-            "id": "d6dd04f39761b831",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6dd04f39761b831",
+  "active": "6e286cb57d51f527",
   "lastOpenFiles": [
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/תיקון כלים.md",
-    "Halacha/יורה דעה/תערובות.md",
-    "Halacha/Concepts/בישול - Cooking.md",
-    "Halacha/יורה דעה/~$ר בחלב.md",
     "Halacha/Concepts/Measurements.md",
+    "Halacha/Concepts/בישול - Cooking.md",
+    "Halacha/Concepts/מראת עין.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "Halacha/יורה דעה/~$ר בחלב.md",
     "hugo.toml",
     "Torah Notes/hugo.toml",
     "Torah Notes/History/Eras of Torah.md",
@@ -238,7 +226,6 @@
     "Untitled.canvas",
     "Halacha/Halacha.md",
     "Welcome.md",
-    "History/Eras of Torah.md",
-    "Halacha/Concepts/מראת עין.md"
+    "History/Eras of Torah.md"
   ]
 }
