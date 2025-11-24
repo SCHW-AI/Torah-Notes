@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Halacha/Concepts/בישול - Cooking.md",
+                "file": "Halacha/יורה דעה/תערובות.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "בישול - Cooking"
+              "title": "תערובות"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/Concepts/בישול - Cooking.md",
+                "file": "Halacha/יורה דעה/תערובות.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of בישול - Cooking"
+              "title": "Outline of תערובות"
             }
           },
           {
@@ -206,13 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e286cb57d51f527",
+  "active": "61106f8317fa3b6a",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/בשר בחלב.md",
-    "Halacha/יורה דעה/תערובות.md",
-    "Halacha/Concepts/בישול - Cooking.md",
-    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/Measurements.md",
+    "Halacha/Concepts/בישול - Cooking.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/מראת עין.md",
     "Halacha/יורה דעה/~$ר בחלב.md",
     "hugo.toml",
