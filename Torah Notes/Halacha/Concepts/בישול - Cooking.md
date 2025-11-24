@@ -14,7 +14,7 @@ The ט"ז (שם ס"ק ה) holds it can, but the ש"ך (שם ס"ק ז) that it ca
 ![[בשר בחלב#Cooking]]
 
 ## תתאה גבר:
-When something hot comes into contact with something cold, whether the hot item heats the cold item or the cold item cools the hot item, the consequence being whether the items cook together and thereby transfer flavors to each other, is debated in the Gemara (source). We Pasken that whichever item is lower (although according to many this is actually interpreted to mean the stationary item) extends its state to the upper (moving) item (תתאה גבר). ^ad0c62
+When something hot comes into contact with something cold, whether the hot item heats the cold item or the cold item cools the hot item, the consequence being whether the items cook together and thereby transfer flavors to each other, is debated in the Gemara (source). We Pasken that whichever item is lower (although according to many this is actually interpreted to mean the stationary item) extends its state to the upper (moving) item (תתאה גבר) (see שו"ע יו"ד צא:ד). If, however, the upper (moving) item is ^ad0c62
 
 ## Cooking After Removal From the Flame (כלי ראשון/שני/שלישי):
 ### כלי ראשון:
