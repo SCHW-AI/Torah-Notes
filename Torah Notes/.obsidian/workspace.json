@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "24b042263478b545",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "ad204488481f55a2",
             "type": "leaf",
             "state": {
@@ -46,9 +34,23 @@
               "icon": "lucide-file",
               "title": "בשר בחלב"
             }
+          },
+          {
+            "id": "8ced625c243093f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halacha/Concepts/בישול - Cooking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "בישול - Cooking"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Halacha/Concepts/בישול - Cooking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of בישול - Cooking"
             }
           },
           {
@@ -218,10 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24b042263478b545",
+  "active": "8ced625c243093f7",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/תערובות.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/Concepts/Measurements.md",
     "Halacha/יורה דעה/תיקון כלים.md",
