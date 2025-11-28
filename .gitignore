@@ -1,0 +1,18 @@
+# Quartz
+public/
+.quartz-cache/
+node_modules/
+
+# Obsidian
+.obsidian/
+Torah Notes/.obsidian/
+
+# Symlink (don't commit - CI creates it)
+content
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cloudflare
+.wrangler/
