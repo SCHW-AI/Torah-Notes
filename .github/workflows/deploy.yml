@@ -15,8 +15,7 @@ jobs:
           node-version: '20'
       
       - run: npm ci
-      - run: ln -s "Torah Notes" content
-      - run: npx quartz build
+      - run: npx quartz build -d "Torah Notes"
       
       - uses: cloudflare/wrangler-action@v3
         with:
