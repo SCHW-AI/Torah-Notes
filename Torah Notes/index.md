@@ -8,5 +8,5 @@ This is a personal collection of Torah notes, focusing on Halacha.
 
 > [!note] Explore
 > Use the explorer on the left to browse, or start here:
-> - [[Halacha/|Halacha]]
+> - [Halacha](Halacha/)
 > - [[History/Eras of Torah|History]]
