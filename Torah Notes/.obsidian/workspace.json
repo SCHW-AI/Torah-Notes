@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "d8f5bdd7e2c0a852",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.hebrewbooks.org/shas.aspx?mesechta=31&daf=115b&format=pdf",
-                "title": "HebrewBooks.org -בבלי - מסכת חולין דף קטו עמוד ב",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "HebrewBooks.org -בבלי - מסכת חולין דף קטו עמוד ב"
-            }
-          },
-          {
             "id": "67e8a6250bb8b7d1",
             "type": "leaf",
             "state": {
@@ -250,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8f5bdd7e2c0a852",
+  "active": "67e8a6250bb8b7d1",
   "lastOpenFiles": [
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/מליחה.md",
