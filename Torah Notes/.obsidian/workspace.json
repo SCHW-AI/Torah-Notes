@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "097b43733fdf07e2",
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/מליחה.md",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of מליחה"
+              "title": "Outline of בשר בחלב"
             }
           },
           {
@@ -218,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,12 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67e8a6250bb8b7d1",
+  "active": "0c019a6c9f030254",
   "lastOpenFiles": [
+    "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/מליחה.md",
     "Halacha/יורה דעה/תערובות.md",
-    "Halacha/Concepts/בישול - Cooking.md",
     "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/Concepts/Measurements.md",
     "index.md",
