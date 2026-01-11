@@ -210,14 +210,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Halacha/יורה דעה/תערובות.md"
+                "file": "Halacha/יורה דעה/מליחה.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3f514ef6dcb2cf5",
+  "active": "61106f8317fa3b6a",
   "lastOpenFiles": [
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/מליחה.md",
