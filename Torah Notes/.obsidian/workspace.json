@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/מליחה.md",
+                "file": "Halacha/יורה דעה/תיקון כלים.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of מליחה"
+              "title": "Outline of תיקון כלים"
             }
           },
           {
@@ -224,7 +224,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Halacha/יורה דעה/מליחה.md"
+                "file": "Halacha/יורה דעה/תיקון כלים.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -249,10 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29921b5de73e04e4",
+  "active": "0d1a6bea796cd121",
   "lastOpenFiles": [
-    "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/מליחה.md",
+    "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/תיקון כלים.md",
     "Halacha/יורה דעה/תערובות.md",
     "Untitled.md",
