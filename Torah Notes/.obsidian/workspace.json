@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "מליחה"
             }
-          },
-          {
-            "id": "0d1a6bea796cd121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Halacha/יורה דעה/תיקון כלים.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "תיקון כלים"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "097b43733fdf07e2",
@@ -214,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/תיקון כלים.md",
+                "file": "Halacha/יורה דעה/תערובות.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of תיקון כלים"
+              "title": "Outline of תערובות"
             }
           },
           {
@@ -250,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,19 +249,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d1a6bea796cd121",
+  "active": "2455e1603a011538",
   "lastOpenFiles": [
-    "Iyun/שלחן ערוך/יורה דעה/ס' צא.md",
     "Halacha/יורה דעה/בשר בחלב.md",
-    "סעיף ז.md",
+    "Halacha/יורה דעה/מליחה.md",
+    "Iyun/שלחן ערוך/יורה דעה/ס' צא.md",
     "Halacha/יורה דעה/תיקון כלים.md",
+    "סעיף ז.md",
     "Iyun/שלחן ערוך/יורה דעה/ס' צא",
     "Iyun/שלחן ערוך/יורה דעה",
     "Iyun/שלחן ערוך",
     "Iyun",
     "index.md",
     "Halacha/יורה דעה/תערובות.md",
-    "Halacha/יורה דעה/מליחה.md",
     "Untitled.base",
     "History/Eras of Torah.md",
     "Halacha/Concepts/בישול - Cooking.md",
