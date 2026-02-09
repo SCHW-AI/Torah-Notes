@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/תערובות.md",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of תערובות"
+              "title": "Outline of בשר בחלב"
             }
           },
           {
@@ -249,11 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2455e1603a011538",
+  "active": "fb6c13e8de153e07",
   "lastOpenFiles": [
+    "Iyun/שלחן ערוך/יורה דעה/ס' צא.md",
+    "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/יורה דעה/מליחה.md",
-    "Iyun/שלחן ערוך/יורה דעה/ס' צא.md",
     "Halacha/יורה דעה/תיקון כלים.md",
     "סעיף ז.md",
     "Iyun/שלחן ערוך/יורה דעה/ס' צא",
@@ -261,7 +262,6 @@
     "Iyun/שלחן ערוך",
     "Iyun",
     "index.md",
-    "Halacha/יורה דעה/תערובות.md",
     "Untitled.base",
     "History/Eras of Torah.md",
     "Halacha/Concepts/בישול - Cooking.md",
