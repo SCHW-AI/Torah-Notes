@@ -18,7 +18,7 @@ When something hot comes into contact with something cold, whether the hot item 
 
 ## Cooking After Removal From the Flame (כלי ראשון/שני/שלישי):
 ### כלי ראשון:
-When a pot of food that has been heated to [[תערובות#יד סולדת|יד סולדת]] is removed from the flame, it retains its ability to cook additional food that is placed in it until it cools to below יד סולדת. This is called a כלי ראשון.
+When a pot of food that has been heated to [[תערובות#יד סולדת|יד סולדת]] is removed from the flame, it retains its ability to cook additional food that is placed in it until it cools to below יד סולדת. This is called a כלי ראשון. The שו"ע (א"ח ס' שיח) disagrees and says that even a כלי ראשון doesn't cook.
 ### כלי שני:
 If the food in the pot is moved to different utensil, the food loses most of its ability to cook, *even though it's still יד סולדת*,  and, as far as שבת can only cook קלי הבישול, but as far as תערובות can still, according to some, cause בליעות to transfer.
 
