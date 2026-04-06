@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "58791d549a1f6615",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "67e8a6250bb8b7d1",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of בשר בחלב"
+              "title": "Outline"
             }
           },
           {
@@ -235,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "034d792388688edd",
+  "active": "58791d549a1f6615",
   "lastOpenFiles": [
     "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
