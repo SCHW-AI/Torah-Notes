@@ -53,12 +53,12 @@
             "id": "58791d549a1f6615",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Halacha - Book.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file-text",
+              "title": "Halacha - Book"
             }
           },
           {
@@ -197,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Halacha - Book.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Halacha - Book"
             }
           },
           {
@@ -248,6 +249,7 @@
   },
   "active": "58791d549a1f6615",
   "lastOpenFiles": [
+    "Halacha - Book.pdf",
     "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
     "Halacha/Concepts/Measurements.md",
