@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha - Book.pdf",
+                "file": "Halacha/יורה דעה/בשר בחלב.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Halacha - Book"
+              "title": "Outline of בשר בחלב"
             }
           },
           {
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
