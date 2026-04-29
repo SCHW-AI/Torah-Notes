@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Halacha/יורה דעה/בשר בחלב.md",
+                "file": "Halacha/יורה דעה/תערובות.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of בשר בחלב"
+              "title": "Outline of תערובות"
             }
           },
           {
@@ -221,11 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "034d792388688edd",
+  "active": "67e8a6250bb8b7d1",
   "lastOpenFiles": [
-    "Halacha/Concepts/בישול - Cooking.md",
-    "Halacha/יורה דעה/תערובות.md",
     "Halacha/יורה דעה/בשר בחלב.md",
+    "Halacha/יורה דעה/תערובות.md",
+    "Halacha/Concepts/בישול - Cooking.md",
     "Halacha - Book.pdf",
     "Halacha/יורה דעה/מליחה.md",
     "Halacha/Concepts/_section.md",
